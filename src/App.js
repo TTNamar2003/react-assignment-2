@@ -16,12 +16,12 @@ function App() {
 
 
       {/* uncomment below component for question 4 */}
-       {/* <ToDoList/> */}
+      {/* <ToDoList /> */}
 
 
-       {/* uncomment below component for question 5 */}
+      {/* uncomment below component for question 5 */}
       {/* <Toggle/> */}
-     
+
     </div>
   );
 }
